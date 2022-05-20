@@ -41,7 +41,7 @@
 </svelte:head>
 
 <h1>Great success!</h1>
-<p>host & deploy by Netlfy</p>
+<p>host & deploy by Netlify</p>
 <figure>
 	<img alt="Success Kid" src="{successkid}">
 	<figcaption>Have fun with Sapper!</figcaption>
