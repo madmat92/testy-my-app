@@ -34,6 +34,10 @@
 			font-size: 4em;
 		}
 	}
+	.testBtn {
+		bottom: 1rem;
+		position: absolute;
+	}
 </style>
 
 <svelte:head>
@@ -48,3 +52,9 @@
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+
+<button class="testBtn">Test button</button>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur perspiciatis, nihil saepe recusandae corrupti repellat quia ad deserunt beatae inventore aut sequi porro iusto esse, libero id, voluptate fugiat necessitatibus?</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur perspiciatis, nihil saepe recusandae corrupti repellat quia ad deserunt beatae inventore aut sequi porro iusto esse, libero id, voluptate fugiat necessitatibus?</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur perspiciatis, nihil saepe recusandae corrupti repellat quia ad deserunt beatae inventore aut sequi porro iusto esse, libero id, voluptate fugiat necessitatibus?</p>
